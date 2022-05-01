@@ -1,0 +1,2 @@
+C:\Users\savaseeratesli\source\repos\karmasik_sayilar_overloading\Debug\karmasik_sayilar_overloading.exe
+C:\Users\savaseeratesli\source\repos\karmasik_sayilar_overloading\Debug\karmasik_sayilar_overloading.pdb
